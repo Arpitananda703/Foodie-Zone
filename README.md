@@ -2,11 +2,7 @@
 
 - This project is a clone of the popular food delivery application Swiggy, built using React Native. It aims to replicate some of the core functionalities and UI/UX elements of the original Swiggy app.
 
-## Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
 
 ## Introduction
 
